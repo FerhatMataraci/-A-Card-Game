@@ -12,6 +12,7 @@
 
 # Rider generated
 .idea/
+.DS_Store/
 
 # User-specific files
 *.suo
@@ -122,5 +123,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-.DS_Store
