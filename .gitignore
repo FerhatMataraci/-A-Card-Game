@@ -12,6 +12,7 @@
 
 # Rider generated
 .idea/
+.DS_Store/
 
 # User-specific files
 *.suo
